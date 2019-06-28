@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://ianychoi.github.io/DevOpsKoreaHOL/hol/hol.html</loc>
-		<lastmod>2019-06-09</lastmod>
+		<loc>http://yoonguwon1206.github.io/DevOpsKoreaHOL/alive.html</loc>
+		<lastmod>2019-06-28</lastmod>
 		<changefreq>daily</changefreq>
 	</url>
 	<url>
-		<loc>http://ianychoi.github.io/DevOpsKoreaHOL/credit.html</loc>
-		<lastmod>2019-06-09</lastmod>
+		<loc>http://yoonguwon1206.github.io/DevOpsKoreaHOL/index.html</loc>
+		<lastmod>2019-06-28</lastmod>
 		<changefreq>daily</changefreq>
 	</url>
 	<url>
-		<loc>http://ianychoi.github.io/DevOpsKoreaHOL/alive.html</loc>
-		<lastmod>2019-06-09</lastmod>
+		<loc>http://yoonguwon1206.github.io/DevOpsKoreaHOL/hol\hol.html</loc>
+		<lastmod>2019-06-28</lastmod>
 		<changefreq>daily</changefreq>
 	</url>
 	<url>
-		<loc>http://ianychoi.github.io/DevOpsKoreaHOL/index.html</loc>
-		<lastmod>2019-06-09</lastmod>
+		<loc>http://yoonguwon1206.github.io/DevOpsKoreaHOL/credit.html</loc>
+		<lastmod>2019-06-28</lastmod>
 		<changefreq>daily</changefreq>
 	</url>
 </urlset>
